@@ -1,0 +1,4 @@
+To run this program smoothly use the following steps:
+1. Use Google COLAB because we have to use GPU for EPOCH which COLAB can provide us.
+2. Use a Linux platform like Ubuntu or things else altho it will work fine in Windows but still, it is best to use in Linux.
+3. And finaly the like for data set https://www.kaggle.com/datasets/mirfan899/data-lstm.
